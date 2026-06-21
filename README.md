@@ -2,7 +2,8 @@
 Resources for learning how to use AI
 
 - [ ] 🎨 Core Fundamentals
-🌟 1. Google's Introduction to Generative AI Course
+      
+- [ ] 🌟 1. Google's Introduction to Generative AI Course
 The Vibe: Micro-learning blueprint directly from the engineers who power the tech.
 
 Time Commitment: ~45 minutes.
@@ -11,7 +12,8 @@ What You Actually Learn: The core distinction between traditional machine learni
 
 Why It's in the Hub: It completely demystifies the technical jargon, giving you the vocabulary to speak intelligently in developer interviews or client pitches.
 
-⚡ 2. AI Boost Bites
+- [ ] ⚡ 2. AI Boost Bites
+
 The Vibe: Bite-sized, high-impact tactical strategies designed for rapid skill acquisition.
 
 Time Commitment: Variable / Rapid consumption.
@@ -21,7 +23,8 @@ What You Actually Learn: Fast, digestible frameworks to instantly integrate AI u
 Why It's in the Hub: It bridges the gap between passive learning and active application, giving the user instant momentum.
 
 - [ ] 🏗️ Professional Prompt Engineering
-🧠 1. LearnPrompting.org (The Core Curriculum)
+      
+- [ ] 🧠 1. LearnPrompting.org (The Core Curriculum)
 The Vibe: The gold standard, open-source textbook for communication with LLMs.
 
 Time Commitment: 2–3 hours (Self-paced interactive modules).
@@ -30,7 +33,7 @@ What You Actually Learn: Moving past basic questions into professional framework
 
 Why It's in the Hub: It shifts the user's mindset from treating AI like a Google search bar to treating it like a programmable engine.
 
-🛠️ 2. The Interactive Playground Strategy (OpenAI / Anthropic Playgrounds)
+- [ ] 🛠️ 2. The Interactive Playground Strategy (OpenAI / Anthropic Playgrounds)
 The Vibe: The raw, developer-facing testing environments where real engineering happens.
 
 Time Commitment: Continuous hands-on experimentation.
@@ -40,7 +43,8 @@ What You Actually Learn: How to manipulate backend variables like Temperature (c
 Why It's in the Hub: It strips away the consumer chatbot interface, giving users a pristine environment to stress-test their prompts against raw models for free.
 
 - [ ] 🐍 The Python Automation Tier
-🤖 1. The Official Google AI & OpenAI Python SDK Quickstarts
+      
+- [ ] 🤖 1. The Official Google AI & OpenAI Python SDK Quickstarts
 The Vibe: The direct, low-level technical blueprints for talking to models via code.
 
 Time Commitment: 1–2 hours of hands-on coding.
@@ -49,7 +53,7 @@ What You Actually Learn: How to install the official libraries using pip, secure
 
 Why It's in the Hub: It completely strips away the dependency on third-party frameworks, teaching users the raw fundamentals of programmatic AI interaction.
 
-⚙️ 2. DeepLearning.AI: "Automating Workflows with Python"
+- [ ] ⚙️ 2. DeepLearning.AI: "Automating Workflows with Python"
 The Vibe: A masterclass in building invisible, high-leverage background scripts.
 
 Time Commitment: ~1 hour.
